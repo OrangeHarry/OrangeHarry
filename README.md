@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 <br>
   
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-#005F0F?style=flat-square&logo=Thymeleaf&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
