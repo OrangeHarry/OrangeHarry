@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-## 🌹 t e c h 🌹
+## 🪄 t e c h ⚒
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 <br><br><br>
 
 
-### 💌  t o d a y 
+### 🎈  t o d a y 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoowon0220&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOrangeHarry&count_bg=%23FF7F50&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 <br><br><br><br><br>
 
 </div>
