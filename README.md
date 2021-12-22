@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 ## 💫 m e 
-[![Resume](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=blogger&logoColor=white)](https://www.notion.so/916fdb24efae4201b1c1e76c6fe63212)
+[![Resume](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/916fdb24efae4201b1c1e76c6fe63212)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.hhm7761@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/orange.hm/?hl=ko) 
 <br><br><br>
