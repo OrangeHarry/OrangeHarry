@@ -48,9 +48,8 @@ Here are some ideas to get you started:
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOrangeHarry&count_bg=%23FF7F50&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 <br><br><br>
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>  
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
   
 ![OrangeHArry's github stats](https://github-readme-stats.vercel.app/api?username=OrangeHArry&show_icons=true)
 ![OrangeHArry's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeHArry&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
