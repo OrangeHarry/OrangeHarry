@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <div align=left>
   
-![OrangeHArry's github stats](https://github-readme-stats.vercel.app/api?username=OrangeHArry&show_icons=true)
+![OrangeHArry's github stats width:400](https://github-readme-stats.vercel.app/api?username=OrangeHArry&show_icons=true)
 ![OrangeHArry's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeHArry&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 
 </div>
