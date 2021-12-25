@@ -32,10 +32,6 @@ Here are some ideas to get you started:
 ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 <br><br><br>
 
-
-
-
-
 ## 💫 m e 
 [![Resume](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/916fdb24efae4201b1c1e76c6fe63212)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.hhm7761@gmail.com)
