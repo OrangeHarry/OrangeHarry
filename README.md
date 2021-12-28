@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-EF2D5E?style=flat-square&logo=JSP&logoColor=white)
-![Servlet](https://img.shields.io/badge/Servlet-FF0000?style=flat-square&logo=Servlet&logoColor=white)
+<!-- ![JSP](https://img.shields.io/badge/JSP-EF2D5E?style=flat-square&logo=JSP&logoColor=white)
+![Servlet](https://img.shields.io/badge/Servlet-FF0000?style=flat-square&logo=Servlet&logoColor=white) -->
 <br>
   
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white)
