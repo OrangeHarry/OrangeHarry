@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Wellcome_to_Harry_git&fontSize=70)
 <div align=center>
+  
 ## 🪄 t e c h ⚒
   
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
