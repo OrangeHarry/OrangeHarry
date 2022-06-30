@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
 ## 🪄 t e c h ⚒
 
-![Apex](https://img.shields.io/badge/Apex-007396?style=flat-square&logo=Apex&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-0067A3?style=flat-square&logo=Apex&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
